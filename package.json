@@ -1,0 +1,8 @@
+{
+  "name": "codegrid-nodejs-7",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "socket.io": "^1.0.6"
+  }
+}
