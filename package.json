@@ -3,6 +3,6 @@
   "main": "server.js",
   "private": true,
   "dependencies": {
-    "socket.io": "^1.7.4"
+    "socket.io": "^4.5.4"
   }
 }
